@@ -6,7 +6,7 @@ const WEDDING_START = new Date("2026-12-06T19:00:00+05:30");
 const MAP_SRC =
   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.336984840274!2d83.58417867517728!3d25.59371617745788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3991ff007b7f18fd%3A0xd81a71424eade9a!2sTHE%20EDEN%20PALACE!5e0!3m2!1sen!2sin!4v1793170387855!5m2!1sen!2sin";
 const MAP_LINK = "https://www.google.com/maps/search/?api=1&query=The+Eden+Palace+Shekhpura+Ghazipur";
-const MUSIC_SRC = "/music.mp3";
+const MUSIC_SRC = "/music.mpeg";
 const AUTOPLAY_MS = 9000;
 const BISMILLAH = "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ";
 
